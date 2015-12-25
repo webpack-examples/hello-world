@@ -1,0 +1,20 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "A Hello-World sample for WebPack",
+  "main": "hello.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webpack-examples/hello-world.git"
+  },
+  "author": "Ingwie Phoenix <ingwie2000@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webpack-examples/hello-world/issues"
+  },
+  "homepage": "https://github.com/webpack-examples/hello-world#readme",
+  "devDependencies": {}
+}
